@@ -1,4 +1,6 @@
 # mdsvex
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcoryvirok%2FMDsveX.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcoryvirok%2FMDsveX?ref=badge_shield)
+
 
 A Markdown preprocessor for Svelte. Markdown in Svelte.
 
@@ -18,3 +20,7 @@ This is a monorepo containing `mdsvex` and any supporting packages. Each repo ha
 ## Contributing
 
 Contributions are welcome. This repo uses [changesets](https://github.com/atlassian/changesets) to manage changelogs and versioning. All pull requests need an accompanying changeset file (PRs to the documentation website do not need a changeset file). If you know how changesets work then feel free to add one with the appropriate packages, versions and a description of the change. If you don't know how changesets work, don't worry about it, I am happy to add one (a little robot will also add some details to the PR when you open it as well, if you want to learn more).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcoryvirok%2FMDsveX.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcoryvirok%2FMDsveX?ref=badge_large)
